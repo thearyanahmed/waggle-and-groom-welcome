@@ -1,0 +1,6 @@
+{
+  "status": "healthy",
+  "timestamp": "{{ timestamp }}",
+  "service": "pet-grooming-landing",
+  "version": "1.0.0"
+}
